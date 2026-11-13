@@ -20,6 +20,3 @@ Python will be used for the main development. Streamlit and FastAPI will handle 
 
 Sentence Transformers and ChromaDB will help find relevant reference information. Hugging Face datasets will provide sample data for testing. RAGAS and TruLens will be explored to evaluate the system.
 
-## Note
-
-These tools are selected based on the current project requirements. Some choices may change during development depending on their usefulness and performance.
