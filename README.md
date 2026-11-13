@@ -6,8 +6,7 @@ AI tools like ChatGPT and other Large Language Models (LLMs) can provide useful 
 
 This project focuses on developing a system that can check the quality and reliability of AI-generated responses and help identify such issues.
 
-**Problem**
-
+## Problem
 When we receive an answer from an AI tool, it can be difficult to know whether the information is actually correct, relevant and complete.
 
 The aim of this project is to make that checking process easier by comparing AI-generated answers with relevant reference information and identifying possible mistakes or unsupported claims.
