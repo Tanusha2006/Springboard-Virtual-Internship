@@ -2,7 +2,7 @@
 
 ## About the Project
 
-AI tools like ChatGPT and other Large Language Models (LLMs) can provide useful answers in seconds. However, not every answer they generate is necessarily correct. Sometimes, AI may provide incorrect facts or information that sounds convincing but has no proper supporting evidence. This is known as an AI hallucination.
+AI tools and Large Language Models (LLMs) can provide useful answers in seconds. However, not every answer they generate is necessarily correct. Sometimes, AI may provide incorrect facts or information that sounds convincing but has no proper supporting evidence. This is known as an AI hallucination.
 
 This project focuses on developing a system that can check the quality and reliability of AI-generated responses and help identify such issues.
 
